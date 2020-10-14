@@ -24,3 +24,8 @@ contact:
     subject: Subject
     message: Message
     submit: Submit
+menu:
+  main:
+    name: contact
+    URL: contact
+    weight: 6

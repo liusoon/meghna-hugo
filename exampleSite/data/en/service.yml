@@ -29,3 +29,8 @@ service:
     content: 'We not only provide services to corporate users, but also provide high-quality
       network technical services and network security guarantees for small teams or
       individuals. '
+menu:
+  main:
+    name: services
+    URL: services
+    weight: 2
