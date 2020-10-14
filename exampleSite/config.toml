@@ -1,4 +1,4 @@
-baseURL = "https://www.kylinnetzephyrus.ltd"
+baseURL = "https://www.kylinnetzephyrus.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
