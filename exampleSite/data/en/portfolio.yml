@@ -63,10 +63,10 @@ portfolio:
     content: Provide personalized design of office supplies and stationery.
     link: "#"
   - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: images/portfolio-2.jpg
+    image_webp: images/portfolio-2.webp
     categories:
     - design
     - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: We have rich experience in the design of trademark labels.
     link: "#"
