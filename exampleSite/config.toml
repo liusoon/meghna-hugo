@@ -19,10 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = "2"
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 5
 [params]
 author = "liusoon"
 description = "Responsive Multipurpose Parallax HTML5 Template"
