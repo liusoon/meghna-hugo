@@ -69,8 +69,6 @@ link = "plugins/google-map/map.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/lazy-load/lozad.min.js"
-[[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
 [params.preloader]
 enable = true
 preloader = ""
