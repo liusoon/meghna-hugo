@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
-  icon: "/images/icon.png"
+  icon: ''
   title: Kylinnetzephyrus Technology Co.Ltd
   content: ''
   button:
