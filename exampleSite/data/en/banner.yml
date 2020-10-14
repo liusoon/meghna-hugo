@@ -3,10 +3,9 @@ banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
-  icon: ''
+  icon: "/images/logo-1.png"
   title: Kylinnetzephyrus Technology Co.Ltd
-  content: We firmly believe that network technology is people-oriented, and while
-    adhering to creativity, we will never sacrifice the security of user data.
+  content: ''
   button:
     enable: true
     label: Explore Us
