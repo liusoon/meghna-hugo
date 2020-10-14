@@ -26,7 +26,6 @@ service:
       platforms, and provide the same high-quality services for enterprises or individuals.
   - name: Networking
     icon: ti-pulse
-    content: We not only provide services to corporate users, but also provide high-quality
+    content: 'We not only provide services to corporate users, but also provide high-quality
       network technical services and network security guarantees for small teams or
-      individuals. Respecting user privacy and ensuring user data security is our
-      responsibility.
+      individuals. '
