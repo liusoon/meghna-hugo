@@ -22,8 +22,8 @@ service:
       graphic design and modeling of corporate related brands or logos.
   - name: Apps Development
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Provide various application development on ios, android, pc and other
+      platforms, and provide the same high-quality services for enterprises or individuals.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
