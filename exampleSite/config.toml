@@ -49,7 +49,7 @@ weight = 7
 author = "liusoon"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = "AIzaSyBLfZ02cQCp_o5VM-2Q5bGAdDmY5d889mY"
-logo = "/images/favicon.png"
+logo = "/images/logo-3.png"
 post_share = true
 [params.map]
 enable = true
@@ -57,10 +57,6 @@ gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAtJkYe0El_XHj02Ram
 map_latitude = " 30.652248  "
 map_longitude = "104.069778"
 map_marker = "images/marker.png"
-[[params.plugins.css]]
-link = ""
-[[params.plugins.css]]
-link = ""
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
