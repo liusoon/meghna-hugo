@@ -22,5 +22,6 @@ skill:
 menu:
   main:
     name: skill
-    URL: team
-    weight: 3
+    URL: "#skill"
+    weight: "3"
+  static: []
