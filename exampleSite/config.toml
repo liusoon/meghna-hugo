@@ -58,19 +58,19 @@ link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.js]]
-link = "plugins/lazy-load/lozad.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/map.js"
+link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
+link = "plugins/google-map/map.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
-link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
 [params.preloader]
 enable = true
 preloader = ""
