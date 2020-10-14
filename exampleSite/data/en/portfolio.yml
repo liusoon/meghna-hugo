@@ -10,12 +10,12 @@ portfolio:
     - design
     content: We have rich experience in the design of trademark labels.
     link: ''
-  - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: System
+    image: images/portfolio-2.jpg
+    image_webp: images/portfolio-2.webp
     categories:
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: For application system development, we have rich experience.
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
