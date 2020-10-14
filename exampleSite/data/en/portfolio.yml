@@ -4,12 +4,12 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/portfolio-1.jpg
+    image_webp: images/portfolio-1.webp
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
+    content: We have rich experience in the design of trademark labels.
+    link: ''
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
