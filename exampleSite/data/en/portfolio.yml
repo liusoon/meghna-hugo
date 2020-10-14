@@ -34,11 +34,11 @@ portfolio:
     content: We have rich experience in the design of trademark labels.
     link: "#"
   - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+    image: images/portfolio-5.jpg
+    image_webp: images/portfolio-5.webp
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: We have rich experience in the design of trademark labels.
     link: "#"
   - name: Tag Design
     image: "/images/portfolio-6.jpg"
