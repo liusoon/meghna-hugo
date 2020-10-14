@@ -67,8 +67,6 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/google-map/map.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/lazy-load/lozad.min.js"
 [params.preloader]
 enable = true
 preloader = ""
