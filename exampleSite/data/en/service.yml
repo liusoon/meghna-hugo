@@ -18,8 +18,8 @@ service:
       provide companies with precise corporate advertising and planning.
   - name: Graphic Design
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Provide one-stop service for solving corporate portal problems, including
+      graphic design and modeling of corporate related brands or logos.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
