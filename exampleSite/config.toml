@@ -1,10 +1,10 @@
-baseURL = "https://www.kylinnetzephyrus.netlify.app"
+baseURL = "https://www.kylinnetzephyrus.ltd"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = ""
+title = "image/logo.png"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -19,8 +19,30 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = "2"
+[menu]
+static = []
+[[menu.main]]
+URL = "about"
+name = "about"
+weight = 1
+[[menu.main]]
+URL = "services"
+name = "services"
+weight = 2
+[[menu.main]]
+URL = "skill"
+name = "skill"
+weight = "3"
+[[menu.main]]
+URL = "portfolio"
+name = "portfolio"
+weight = "4"
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
 [params]
-author = "liusoon"
+author = "Liusoon"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = "AIzaSyBLfZ02cQCp_o5VM-2Q5bGAdDmY5d889mY"
 logo = "static/images/logo.png"
