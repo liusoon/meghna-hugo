@@ -1,10 +1,10 @@
 baseURL = "https://www.kylinnetzephyrus.ltd"
 disableLanguages = ["fr"]
 disqusShortname = ""
-paginate = "6"
+paginate = "8"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "image/logo.png"
+title = "Kylinnet"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
