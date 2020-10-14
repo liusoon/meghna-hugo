@@ -14,8 +14,8 @@ service:
       construction. Refuse to apply templates and be the same.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: It adopts the mode of combining traditional media and online media to
+      provide companies with precise corporate advertising and planning.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
