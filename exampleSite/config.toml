@@ -1,5 +1,5 @@
 baseURL = "https://www.kylinnetzephyrus.netlify.app"
-disableLanguages = ["fr"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -18,7 +18,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = "2"
 [menu]
 static = []
 [[menu.main]]
