@@ -11,10 +11,11 @@ feature:
     icon: ti-world
     content: Provide enterprises with one-stop engine optimization services to solve
       difficult optimization problems.
-  - title: Easy Customization
+  - title: Network Construction
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Provide enterprises with customized network engineering construction
+      plans to help enterprises obtain the most convenient and efficient network information
+      services.
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
