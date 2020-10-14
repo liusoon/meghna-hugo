@@ -10,8 +10,8 @@ service:
       of traditional websites, let the website stand out.
   - name: Responsive Design
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Responsive design is adopted to achieve precise and personalized website
+      construction. Refuse to apply templates and be the same.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
