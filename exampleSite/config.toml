@@ -19,27 +19,17 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = "2"
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 5
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 4
-[[menu.main]]
-URL = "services"
-name = "services"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
+[menu]
+static = []
+[menu.main]
+URL = "skill"
+name = "skills"
+weight = 3
 [params]
 author = "Liusoon"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = "AIzaSyBLfZ02cQCp_o5VM-2Q5bGAdDmY5d889mY"
-logo = "static/images/logo.png"
+logo = "/images/logo.png"
 post_share = true
 [params.map]
 enable = true
