@@ -63,8 +63,8 @@ portfolio:
     content: Provide personalized design of office supplies and stationery.
     link: "#"
   - name: Tag Design
-    image: images/portfplio-2.jpg
-    image_webp: images/portfolio-2.webp
+    image: images/portfplio/portfolio-2.jpg
+    image_webp: images/portfolio/portfolio-2.webp
     categories:
     - design
     - photography
