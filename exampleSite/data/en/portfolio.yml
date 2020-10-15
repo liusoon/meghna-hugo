@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: images/portfolio-1.jpg
-    image_webp: images/portfolio-1.webp
+    image: "/images/portfolio/portfolio-1.jpg"
+    image_webp: images/portfolio/portfolio-1.webp
     categories:
     - design
     content: We have rich experience in the design of trademark labels.
