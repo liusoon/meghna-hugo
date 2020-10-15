@@ -19,7 +19,7 @@ portfolio:
     link: ''
   - name: Digital Product
     image: images/portfolio/portfolio-3.jpg
-    image_webp: ''
+    image_webp: " images/portfolio/portfolio-3.webp"
     categories:
     - design
     - development
