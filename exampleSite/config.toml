@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Kylinnet"
+title = "Kylinnetzephyrus"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -19,22 +19,28 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = "2"
+[menu]
+static = []
 [[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 5
+URL = "about"
+name = "about"
+weight = 1
 [[menu.main]]
 URL = "services"
 name = "services"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
+URL = "skill"
+name = "skill"
+weight = "3"
+[[menu.main]]
+URL = "portfolio"
+name = "portfolio"
+weight = "4"
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
 [params]
 author = "Liusoon"
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -51,6 +57,8 @@ map_marker = "images/marker.png"
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
