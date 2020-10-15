@@ -56,7 +56,7 @@ portfolio:
     link: "#"
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
+    image_webp: ''
     categories:
     - design
     - development
