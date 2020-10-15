@@ -54,6 +54,8 @@ map_latitude = " 30.652248  "
 map_longitude = "104.069778"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
