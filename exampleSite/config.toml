@@ -30,7 +30,7 @@ author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = "AIzaSyBLfZ02cQCp_o5VM-2Q5bGAdDmY5d889mY"
 logo = "/images/logo.png"
-post_share = true
+post_share = false
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAtJkYe0El_XHj02RamZOjoRj6YDc2FdAo"
