@@ -62,3 +62,9 @@ portfolio:
     - development
     content: Provide personalized design of office supplies and stationery.
     link: "#"
+  - image: "/images/portfolio/portfolio-1.jpg"
+    image_webp: "/images/portfolio/portfolio-1.webp"
+    categories: ''
+    content: ''
+    link: "#"
+    name: Tag Design
