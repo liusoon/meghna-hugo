@@ -55,8 +55,8 @@ portfolio:
     content: Provide unique business graphic design.
     link: "#"
   - name: Stationary Design
-    image: images/portfolio-8.jpg
-    image_webp: images/portfolio-8.webp
+    image: images/portfolio/portfolio-8.jpg
+    image_webp: images/portfolio/portfolio-8.webp
     categories:
     - design
     - development
