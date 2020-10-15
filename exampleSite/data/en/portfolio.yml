@@ -12,7 +12,7 @@ portfolio:
     link: https://themefisher.com
   - name: System
     image: images/portfolio/portfolio-2.jpg
-    image_webp: ''
+    image_webp: images/portfolio/portfolio-2.webp
     categories:
     - development
     content: For application system development, we have rich experience.
