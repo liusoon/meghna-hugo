@@ -1,6 +1,6 @@
 ---
-- id: skills
-  translation: Our Skills
+- id: skill
+  translation: Skill
 - id: blogTitle
   translation: Latest Post
 - id: readMore
