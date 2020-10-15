@@ -62,7 +62,7 @@ link = "plugins/google-map/map.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
-enable = false
+enable = true
 preloader = "/images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
