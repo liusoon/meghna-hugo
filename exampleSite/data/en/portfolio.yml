@@ -62,11 +62,3 @@ portfolio:
     - development
     content: Provide personalized design of office supplies and stationery.
     link: "#"
-  - name: Tag Design
-    image: images/portfplio/portfolio-9.jpg
-    image_webp: images/portfplio/portfolio-9.webp
-    categories:
-    - design
-    - photography
-    content: We have rich experience in the design of trademark labels.
-    link: "#"
