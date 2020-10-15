@@ -18,8 +18,8 @@ portfolio:
     content: For application system development, we have rich experience.
     link: ''
   - name: Digital Product
-    image: images/portfolio-3.jpg
-    image_webp: images/portfolio-3.webp
+    image: images/portfolio/portfolio-3.jpg
+    image_webp: images/portfolio/portfolio-3.webp
     categories:
     - design
     - development
