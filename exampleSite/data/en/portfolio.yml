@@ -41,8 +41,8 @@ portfolio:
     content: We have rich experience in the design of trademark labels.
     link: "#"
   - name: Tag Design
-    image: "/images/portfolio-6.jpg"
-    image_webp: images/portfolio-6.webp
+    image: "/images/portfolio/portfolio-6.jpg"
+    image_webp: images/portfolio/portfolio-6.webp
     categories:
     - photography
     content: Regarding trademark design, we have rich experience
