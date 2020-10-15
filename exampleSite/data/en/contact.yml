@@ -18,7 +18,7 @@ contact:
     info: 'Email: support@kylinnetzephyrus.com'
   contact_form:
     enable: true
-    form_action: "#https://formspree.io/support@kylinnetzephyrus.com/"
+    form_action: https://formspree.io/support@kylinnetzephyrus.com/
     name: Your Name
     email: Your Email
     subject: Subject
