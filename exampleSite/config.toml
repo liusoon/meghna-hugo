@@ -19,12 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = "2"
-[menu]
-static = []
-[menu.main]
-URL = "skill"
-name = "skills"
-weight = 3
 [params]
 author = "Liusoon"
 description = "Responsive Multipurpose Parallax HTML5 Template"

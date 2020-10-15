@@ -33,4 +33,4 @@ menu:
   main:
     name: services
     URL: services
-    weight: 2
+    weight: "2"

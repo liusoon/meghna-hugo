@@ -21,7 +21,7 @@ skill:
     percent: 75%
 menu:
   main:
-    name: skill
-    URL: skills
+    name: skills
+    URL: skill
     weight: "3"
   static: []

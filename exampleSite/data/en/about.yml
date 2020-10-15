@@ -17,3 +17,8 @@ about:
     content: We put users first in the service process, patiently and meticulously,
       and continuously improve our own technical level and service capabilities are
       the consistent pursuit of our studio.
+menu:
+  main:
+    URL: about
+    name: about
+    weight: 1
