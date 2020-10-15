@@ -27,7 +27,7 @@ portfolio:
     link: "#"
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image_webp: ''
     categories:
     - photography
     - development
@@ -35,14 +35,14 @@ portfolio:
     link: "#"
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+    image_webp: ''
     categories:
     - design
     content: We have rich experience in the design of trademark labels.
     link: "#"
   - name: Tag Design
     image: "/images/portfolio/portfolio-6.jpg"
-    image_webp: images/portfolio/portfolio-6.webp
+    image_webp: ''
     categories:
     - photography
     content: Regarding trademark design, we have rich experience
