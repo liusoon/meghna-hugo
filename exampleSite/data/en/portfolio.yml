@@ -64,7 +64,7 @@ portfolio:
     link: "#"
   - name: Tag Design
     image: images/portfplio/portfolio-2.jpg
-    image_webp: ''
+    image_webp: images/portfplio/portfolio-2.webp
     categories:
     - design
     - photography
