@@ -42,7 +42,7 @@ portfolio:
     link: "#"
   - name: Tag Design
     image: "/images/portfolio/portfolio-6.jpg"
-    image_webp: ''
+    image_webp: "/images/portfolio/portfolio-6.webp"
     categories:
     - photography
     content: Regarding trademark design, we have rich experience
