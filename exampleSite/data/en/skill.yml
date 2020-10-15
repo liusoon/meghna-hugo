@@ -22,6 +22,6 @@ skill:
 menu:
   main:
     name: skill
-    URL: skill
+    URL: skills
     weight: "3"
   static: []
