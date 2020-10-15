@@ -49,7 +49,7 @@ portfolio:
     link: "#"
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
+    image_webp: ''
     categories:
     - development
     content: Provide unique business graphic design.
