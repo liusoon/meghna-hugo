@@ -19,6 +19,12 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = "2"
+[menu]
+static = []
+[menu.main]
+URL = "portfolio"
+name = "portfolio"
+weight = 4
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -56,7 +62,7 @@ link = "plugins/google-map/map.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "/images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
