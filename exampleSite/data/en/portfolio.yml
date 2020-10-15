@@ -11,8 +11,8 @@ portfolio:
     content: We have rich experience in the design of trademark labels.
     link: https://themefisher.com
   - name: System
-    image: images/portfolio-2.jpg
-    image_webp: images/portfolio-2.webp
+    image: images/portfolio/portfolio-2.jpg
+    image_webp: images/portfolio/portfolio-2.webp
     categories:
     - development
     content: For application system development, we have rich experience.
