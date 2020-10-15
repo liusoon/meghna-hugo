@@ -48,8 +48,8 @@ portfolio:
     content: Regarding trademark design, we have rich experience
     link: "#"
   - name: Business Card
-    image: images/portfolio-7.jpg
-    image_webp: images/portfolio-7.webp
+    image: images/portfolio/portfolio-7.jpg
+    image_webp: images/portfolio/portfolio-7.webp
     categories:
     - development
     content: Provide unique business graphic design.
