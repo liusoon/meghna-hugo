@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: "/images/about/about-business-man.png"
+  image_webp: "/images/about/about-business-man.webp"
   title: We are a computer technology service studio.
   content: We have expertise in digital information services and can provide customized
     services for different groups of people.
